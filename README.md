@@ -12,6 +12,7 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://striver.tistory.com/entry/DB-Postgresql-DB-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0"> [DB] Postgresql DB 구축하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/FinAgent-Lab-%EC%9E%AC%EB%AC%B4%EC%A0%9C%ED%91%9C-crawling"> [crawling] 해외 기업 재무제표 crawling 해오기 </a> <br>
 <a href ="https://striver.tistory.com/entry/MCP-Model-Context-Protocol"> MCP (Model Context Protocol) </a> <br>
 <a href ="https://striver.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-Github-%EC%97%B0%EB%8F%99-%EC%9E%94%EB%94%94-%EC%8B%AC%EA%B8%B0"> 티스토리 블로그 + Github 연동 (잔디 심기) </a> <br>
@@ -21,4 +22,3 @@
 <a href ="https://striver.tistory.com/entry/DeepLearning-LLM-fine-tuning-w-Elice-Cloud"> [Fine-Tuning] LLM fine-tuning (/w Elice Cloud) (1) </a> <br>
 <a href ="https://striver.tistory.com/entry/DeepLearning"> [DeepLearning] 언어 모델 최적화 개념 정리 </a> <br>
 <a href ="https://striver.tistory.com/entry/DeepLearning-%EC%9A%A9%EC%96%B4-%EB%B0%8F-%EC%96%B4%ED%9C%98"> [DeepLearning] 용어 정리 </a> <br>
-<a href ="https://striver.tistory.com/entry/DeepLearning-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8"> [DeepLearning] 제목 기반 카테고리 예측 모델 개발 </a> <br>
