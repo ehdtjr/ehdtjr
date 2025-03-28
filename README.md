@@ -12,6 +12,7 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://striver.tistory.com/entry/LLMops-Opik%EC%9C%BC%EB%A1%9C-LLM-%ED%8F%89%EA%B0%80%ED%95%98%EA%B8%B0"> [LLMops] Opik으로 LLM 평가하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/LLM-context-%EA%B8%B0%EB%B0%98-%EB%8B%B5%EB%B3%80-%EB%B9%84%EA%B5%90"> [LLM] context 기반 답변 비교 </a> <br>
 <a href ="https://striver.tistory.com/entry/DB-Postgresql-DB-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0"> [DB] Postgresql DB 구축하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/FinAgent-Lab-%EC%9E%AC%EB%AC%B4%EC%A0%9C%ED%91%9C-crawling"> [crawling] 해외 기업 재무제표 crawling 해오기 </a> <br>
@@ -21,4 +22,3 @@
 <a href ="https://striver.tistory.com/entry/Fine-Tuning-LLM-%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D-%EC%86%94%EB%A3%A8%EC%85%98-Unsloth"> [Fine-Tuning] LLM 파인튜닝 솔루션 - Unsloth </a> <br>
 <a href ="https://striver.tistory.com/entry/DeepLearning-LLM-fine-tuning-w-Elice-Cloud-2"> [Fine-Tuning] LLM fine-tuning (/w Elice Cloud) (2) </a> <br>
 <a href ="https://striver.tistory.com/entry/DeepLearning-LLM-fine-tuning-w-Elice-Cloud"> [Fine-Tuning] LLM fine-tuning (/w Elice Cloud) (1) </a> <br>
-<a href ="https://striver.tistory.com/entry/DeepLearning"> [DeepLearning] 언어 모델 최적화 개념 정리 </a> <br>
