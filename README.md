@@ -18,7 +18,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
-
 <a href ="https://striver.tistory.com/entry/LLMops-Opik%EC%9C%BC%EB%A1%9C-LLM-%ED%8F%89%EA%B0%80%ED%95%98%EA%B8%B0"> [LLMops] Opik으로 LLM 평가하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/LLM-context-%EA%B8%B0%EB%B0%98-%EB%8B%B5%EB%B3%80-%EB%B9%84%EA%B5%90"> [LLM] context 기반 답변 비교 </a> <br>
 <a href ="https://striver.tistory.com/entry/DB-Postgresql-DB-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0"> [DB] Postgresql DB 구축하기 </a> <br>
