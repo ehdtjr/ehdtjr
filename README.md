@@ -18,6 +18,7 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href ="https://striver.tistory.com/entry/LLM-%ED%8F%89%EA%B0%80-%EB%A9%94%ED%8A%B8%EB%A6%AD"> LLM 평가 메트릭 </a> <br>
 <a href ="https://striver.tistory.com/entry/MCP-Client-Server-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0"> MCP Client &amp; Server 직접 구현하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/MCP-Github-MCP-Server-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0"> [MCP] Github MCP Server 사용하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/LLMops-Opik%EC%9C%BC%EB%A1%9C-LLM-%ED%8F%89%EA%B0%80%ED%95%98%EA%B8%B0"> [LLMops] Opik으로 LLM 평가하기 </a> <br>
@@ -27,7 +28,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <a href ="https://striver.tistory.com/entry/MCP-Model-Context-Protocol"> MCP (Model Context Protocol) </a> <br>
 <a href ="https://striver.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-Github-%EC%97%B0%EB%8F%99-%EC%9E%94%EB%94%94-%EC%8B%AC%EA%B8%B0"> 티스토리 블로그 + Github 연동 (잔디 심기) </a> <br>
 <a href ="https://striver.tistory.com/entry/LLMops-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM-%ED%8F%89%EA%B0%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-opik"> [LLMops] 오픈소스 LLM 평가 프레임워크 opik </a> <br>
-<a href ="https://striver.tistory.com/entry/Fine-Tuning-LLM-%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D-%EC%86%94%EB%A3%A8%EC%85%98-Unsloth"> [Fine-Tuning] LLM 파인튜닝 솔루션 - Unsloth </a> <br>
 
 ## 📫 Connect With Me
 
