@@ -19,7 +19,7 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 
 ### 📕 Latest Blog Posts   
 <a href ="https://striver.tistory.com/entry/LLM-%EC%84%9C%EB%B9%99-vLLM-vs-sglang"> [LLM 서빙] vLLM vs sglang </a> <br>
-<a href ="https://striver.tistory.com/entry/function-calling-vs-tool-calling"> function calling vs tool calling </a> <br>
+<a href ="https://striver.tistory.com/entry/function-calling-vs-tool-calling"> [Github] 잔디가 심어지지 않는 문제 해결하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/LLM-%ED%8F%89%EA%B0%80-%EB%A9%94%ED%8A%B8%EB%A6%AD"> LLM 평가 메트릭 </a> <br>
 <a href ="https://striver.tistory.com/entry/MCP-Client-Server-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0"> MCP Client &amp; Server 직접 구현하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/MCP-Github-MCP-Server-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0"> [MCP] Github MCP Server 사용하기 </a> <br>
