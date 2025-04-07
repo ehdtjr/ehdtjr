@@ -18,6 +18,7 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href ="https://striver.tistory.com/entry/LLM-evaluation-LLM-%EB%AA%A8%EB%8D%B8-%EC%9E%90%EC%B2%B4-%ED%8F%89%EA%B0%80"> [LLM evaluation] LLM 모델 자체 평가 </a> <br>
 <a href ="https://striver.tistory.com/entry/LLM-%EC%84%9C%EB%B9%99-vLLM-vs-sglang"> [LLM 서빙] vLLM vs sglang </a> <br>
 <a href ="https://striver.tistory.com/entry/function-calling-vs-tool-calling"> [Github] 잔디가 심어지지 않는 문제 해결하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/LLM-%ED%8F%89%EA%B0%80-%EB%A9%94%ED%8A%B8%EB%A6%AD"> [ESG 투자] ESG 투자란? </a> <br>
@@ -27,7 +28,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <a href ="https://striver.tistory.com/entry/LLM-context-%EA%B8%B0%EB%B0%98-%EB%8B%B5%EB%B3%80-%EB%B9%84%EA%B5%90"> [LLM] context 기반 답변 비교 </a> <br>
 <a href ="https://striver.tistory.com/entry/DB-Postgresql-DB-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0"> [DB] Postgresql DB 구축하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/FinAgent-Lab-%EC%9E%AC%EB%AC%B4%EC%A0%9C%ED%91%9C-crawling"> [crawling] 해외 기업 재무제표 crawling 해오기 </a> <br>
-<a href ="https://striver.tistory.com/entry/MCP-Model-Context-Protocol"> MCP (Model Context Protocol) </a> <br>
 
 ## 📫 Connect With Me
 
