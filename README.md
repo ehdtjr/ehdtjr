@@ -18,6 +18,7 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href ="https://striver.tistory.com/entry/Transformer-RNN%EA%B3%BC-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%9D%B4%ED%95%B4"> [Transformer] RNN과 트랜스포머 아키텍처의 이해 </a> <br>
 <a href ="https://striver.tistory.com/entry/GitHub-Fork-Pull-Request"> [GitHub] Fork &amp; Pull Request </a> <br>
 <a href ="https://striver.tistory.com/entry/DeepLearning-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EB%94%A5%EB%9F%AC%EB%8B%9D"> [DeepLearning] 메모리 효율적인 딥러닝 </a> <br>
 <a href ="https://striver.tistory.com/entry/LLM-evaluation-LLM-%EB%AA%A8%EB%8D%B8-%EC%9E%90%EC%B2%B4-%ED%8F%89%EA%B0%80"> [LLM evaluation] LLM 모델 자체 평가 </a> <br>
@@ -27,7 +28,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <a href ="https://striver.tistory.com/entry/MCP-Client-Server-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0"> MCP Client &amp; Server 직접 구현하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/MCP-Github-MCP-Server-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0"> [MCP] Github MCP Server 사용하기 </a> <br>
 <a href ="https://striver.tistory.com/entry/LLMops-Opik%EC%9C%BC%EB%A1%9C-LLM-%ED%8F%89%EA%B0%80%ED%95%98%EA%B8%B0"> [LLMops] Opik으로 LLM 평가하기 </a> <br>
-<a href ="https://striver.tistory.com/entry/LLM-context-%EA%B8%B0%EB%B0%98-%EB%8B%B5%EB%B3%80-%EB%B9%84%EA%B5%90"> [LLM] context 기반 답변 비교 </a> <br>
 
 ## 📫 Connect With Me
 
