@@ -18,7 +18,8 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
-<a href ="https://striver.tistory.com/entry/%EB%B3%B5%EC%8A%B5-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EB%B2%95"> [복습] 딥러닝의 핵심 원리와 메모리 최적화 기법 </a> <br>
+<a href ="https://striver.tistory.com/entry/RAG-Evaluation-RAG-%ED%8F%89%EA%B0%80%EC%9D%98-%EA%B8%B0%EC%B4%88"> [RAG Evaluation] RAG 평가의 기초 </a> <br>
+<a href ="https://striver.tistory.com/entry/%EB%B3%B5%EC%8A%B5-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EB%B2%95"> [DeepLearning] 딥러닝의 기초와 메모리 최적화 기법 복습 </a> <br>
 <a href ="https://striver.tistory.com/entry/Transformer-%EC%9D%B8%EC%BD%94%EB%8D%94%EC%99%80-%EB%94%94%EC%BD%94%EB%8D%94"> [Transformer] 인코더와 디코더 </a> <br>
 <a href ="https://striver.tistory.com/entry/Transformer-%EC%96%B4%ED%85%90%EC%85%98-%EC%97%B0%EC%82%B0%EA%B3%BC-%ED%95%B5%EC%8B%AC-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C"> [Transformer] 어텐션 연산과 핵심 구성 요소 </a> <br>
 <a href ="https://striver.tistory.com/entry/Input-Embedding-%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%84%EB%B2%A0%EB%94%A9%ED%95%98%EB%8A%94-3%EB%8B%A8%EA%B3%84"> [Text Embedding] 텍스트를 임베딩하는 3단계 </a> <br>
@@ -27,7 +28,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <a href ="https://striver.tistory.com/entry/DeepLearning-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EB%94%A5%EB%9F%AC%EB%8B%9D"> [DeepLearning] 메모리 효율적인 딥러닝 </a> <br>
 <a href ="https://striver.tistory.com/entry/LLM-evaluation-LLM-%EB%AA%A8%EB%8D%B8-%EC%9E%90%EC%B2%B4-%ED%8F%89%EA%B0%80"> [LLM evaluation] LLM 모델 자체 평가 </a> <br>
 <a href ="https://striver.tistory.com/entry/LLM-%EC%84%9C%EB%B9%99-vLLM-vs-sglang"> [LLM 서빙] vLLM vs sglang </a> <br>
-<a href ="https://striver.tistory.com/entry/function-calling-vs-tool-calling"> [Github] 잔디가 심어지지 않는 문제 해결하기 </a> <br>
 
 ## 📫 Connect With Me
 
