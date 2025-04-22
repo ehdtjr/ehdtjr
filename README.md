@@ -18,6 +18,7 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href ="https://striver.tistory.com/entry/Agent-Fuction-calling%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-Agent"> [Agent] ESG 데이터 조회 Agent 구현 </a> <br>
 <a href ="https://striver.tistory.com/entry/XFile"> [LLM Evaluation] 다양한 Task에서 LLM 성능 평가 </a> <br>
 <a href ="https://striver.tistory.com/entry/EvaluationLLM-%EB%B0%8F-RAG-%ED%8F%89%EA%B0%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D"> [LLM 평가]LLM 및 RAG 평가 프레임워크 비교 분석 </a> <br>
 <a href ="https://striver.tistory.com/entry/RAG-Evaluation-RAG-%ED%8F%89%EA%B0%80%EC%9D%98-%EA%B8%B0%EC%B4%88"> [RAG Evaluation] RAG 평가의 기초 </a> <br>
@@ -27,7 +28,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <a href ="https://striver.tistory.com/entry/Input-Embedding-%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%84%EB%B2%A0%EB%94%A9%ED%95%98%EB%8A%94-3%EB%8B%A8%EA%B3%84"> [Text Embedding] 텍스트를 임베딩하는 3단계 </a> <br>
 <a href ="https://striver.tistory.com/entry/Transformer-RNN%EA%B3%BC-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%9D%B4%ED%95%B4"> [Transformer] RNN과 트랜스포머 아키텍처의 이해 </a> <br>
 <a href ="https://striver.tistory.com/entry/GitHub-Fork-Pull-Request"> [GitHub] Fork &amp; Pull Request </a> <br>
-<a href ="https://striver.tistory.com/entry/DeepLearning-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EB%94%A5%EB%9F%AC%EB%8B%9D"> [DeepLearning] 메모리 효율적인 딥러닝 </a> <br>
 
 ## 📫 Connect With Me
 
