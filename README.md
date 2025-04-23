@@ -18,8 +18,9 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href ="https://striver.tistory.com/entry/Fine-Tuning-Restoring-obfuscation-LLM-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0"> [Fine-Tuning] Restoring obfuscation LLM 프로젝트 회고 </a> <br>
 <a href ="https://striver.tistory.com/entry/Agent-Fuction-calling%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-Agent"> [Agent] ESG 데이터 조회 Agent 구현 </a> <br>
-<a href ="https://striver.tistory.com/entry/XFile"> [LLM Evaluation] 다양한 Task에서 LLM 성능 평가 </a> <br>
+<a href ="https://striver.tistory.com/entry/XFile"> [PR] 실전 Fork &amp; PR </a> <br>
 <a href ="https://striver.tistory.com/entry/EvaluationLLM-%EB%B0%8F-RAG-%ED%8F%89%EA%B0%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D"> [LLM 평가]LLM 및 RAG 평가 프레임워크 비교 분석 </a> <br>
 <a href ="https://striver.tistory.com/entry/RAG-Evaluation-RAG-%ED%8F%89%EA%B0%80%EC%9D%98-%EA%B8%B0%EC%B4%88"> [RAG Evaluation] RAG 평가의 기초 </a> <br>
 <a href ="https://striver.tistory.com/entry/%EB%B3%B5%EC%8A%B5-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EB%B2%95"> [DeepLearning] 딥러닝의 기초와 메모리 최적화 기법 복습 </a> <br>
@@ -27,7 +28,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <a href ="https://striver.tistory.com/entry/Transformer-%EC%96%B4%ED%85%90%EC%85%98-%EC%97%B0%EC%82%B0%EA%B3%BC-%ED%95%B5%EC%8B%AC-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C"> [Transformer] 어텐션 연산과 핵심 구성 요소 </a> <br>
 <a href ="https://striver.tistory.com/entry/Input-Embedding-%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%84%EB%B2%A0%EB%94%A9%ED%95%98%EB%8A%94-3%EB%8B%A8%EA%B3%84"> [Text Embedding] 텍스트를 임베딩하는 3단계 </a> <br>
 <a href ="https://striver.tistory.com/entry/Transformer-RNN%EA%B3%BC-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%9D%B4%ED%95%B4"> [Transformer] RNN과 트랜스포머 아키텍처의 이해 </a> <br>
-<a href ="https://striver.tistory.com/entry/GitHub-Fork-Pull-Request"> [GitHub] Fork &amp; Pull Request </a> <br>
 
 ## 📫 Connect With Me
 
