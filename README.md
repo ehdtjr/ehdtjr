@@ -18,6 +18,7 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href ="https://striver.tistory.com/entry/XFile-1"> Agent Evaluation </a> <br>
 <a href ="https://striver.tistory.com/entry/DeepLearning-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC"> [DeepLearning] 딥러닝 프레임워크 비교 분석 </a> <br>
 <a href ="https://striver.tistory.com/entry/Knowledge-%ED%95%99%EC%8A%B5-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%84%88-%EC%A2%85%EB%A5%98-GPU-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%B4%9D%EC%A0%95%EB%A6%AC"> [Knowledge] 학습 파라미터, 트레이너 종류, GPU 인프라 총정리 </a> <br>
 <a href ="https://striver.tistory.com/entry/Fine-Tuning-Restoring-obfuscation-LLM-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0"> [Fine-Tuning] Restoring obfuscation LLM 프로젝트 회고 </a> <br>
@@ -27,7 +28,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <a href ="https://striver.tistory.com/entry/RAG-Evaluation-RAG-%ED%8F%89%EA%B0%80%EC%9D%98-%EA%B8%B0%EC%B4%88"> [RAG Evaluation] RAG 평가의 기초 </a> <br>
 <a href ="https://striver.tistory.com/entry/%EB%B3%B5%EC%8A%B5-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EB%B2%95"> [DeepLearning] 딥러닝의 기초와 메모리 최적화 기법 복습 </a> <br>
 <a href ="https://striver.tistory.com/entry/Transformer-%EC%9D%B8%EC%BD%94%EB%8D%94%EC%99%80-%EB%94%94%EC%BD%94%EB%8D%94"> [Transformer] 인코더와 디코더 </a> <br>
-<a href ="https://striver.tistory.com/entry/Transformer-%EC%96%B4%ED%85%90%EC%85%98-%EC%97%B0%EC%82%B0%EA%B3%BC-%ED%95%B5%EC%8B%AC-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C"> [Transformer] 어텐션 연산과 핵심 구성 요소 </a> <br>
 
 ## 📫 Connect With Me
 
