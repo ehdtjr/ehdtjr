@@ -18,6 +18,7 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href ="https://striver.tistory.com/entry/LangGraph-LangGraph-%EA%B8%B0%EC%B4%88-%EB%B3%B5%EC%8A%B5"> [LangGraph] LangGraph 기초 복습 </a> <br>
 <a href ="https://striver.tistory.com/entry/Prompt-Engineering-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9D%98-%EC%8B%AC%ED%99%94-%EA%B8%B0%EB%B2%95%EB%93%A42"> [Prompt Engineering] 프롬프트 엔지니어링의 심화 기법들(2) </a> <br>
 <a href ="https://striver.tistory.com/entry/Prompt-Engineering-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9D%98-%EC%8B%AC%ED%99%94-%EA%B8%B0%EB%B2%95%EB%93%A41"> [Prompt Engineering] 프롬프트 엔지니어링의 심화 기법들(1) </a> <br>
 <a href ="https://striver.tistory.com/entry/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9D%98-%EA%B8%B0%EC%B4%88-%EA%B8%B0%EB%B2%95%EB%93%A4"> [Prompt Engineering] 프롬프트 엔지니어링의 기초 기법들 </a> <br>
@@ -27,7 +28,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <a href ="https://striver.tistory.com/entry/Agent-Fuction-calling%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-Agent"> [Agent] ESG 데이터 조회 Agent 구현 </a> <br>
 <a href ="https://striver.tistory.com/entry/XFile"> [PR] 실전 Fork &amp; PR </a> <br>
 <a href ="https://striver.tistory.com/entry/EvaluationLLM-%EB%B0%8F-RAG-%ED%8F%89%EA%B0%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D"> [LLM 평가]LLM 및 RAG 평가 프레임워크 비교 분석 </a> <br>
-<a href ="https://striver.tistory.com/entry/RAG-Evaluation-RAG-%ED%8F%89%EA%B0%80%EC%9D%98-%EA%B8%B0%EC%B4%88"> [RAG Evaluation] RAG 평가의 기초 </a> <br>
 
 ## 📫 Connect With Me
 
