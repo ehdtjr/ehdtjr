@@ -18,6 +18,7 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href ="https://striver.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C-%EC%82%AC%EB%82%B4-%EC%84%9C%EB%B2%84-%EC%A0%91%EA%B7%BC"> [네트워크] 외부에서 사내 서버 접근 </a> <br>
 <a href ="https://striver.tistory.com/entry/claude-code-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0"> claude code 체험 </a> <br>
 <a href ="https://striver.tistory.com/entry/Langgraph-cache"> RAG Caching (/w Langchain &amp; Langgraph </a> <br>
 <a href ="https://striver.tistory.com/entry/LangGraph-LangGraph-%EA%B8%B0%EC%B4%88-%EB%B3%B5%EC%8A%B5"> [LangGraph] LangGraph 기초 복습 </a> <br>
@@ -27,7 +28,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <a href ="https://striver.tistory.com/entry/DeepLearning-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC"> [DeepLearning] 딥러닝 프레임워크 비교 분석 </a> <br>
 <a href ="https://striver.tistory.com/entry/Knowledge-%ED%95%99%EC%8A%B5-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%84%88-%EC%A2%85%EB%A5%98-GPU-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%B4%9D%EC%A0%95%EB%A6%AC"> [Knowledge] 학습 파라미터, 트레이너 종류, GPU 인프라 총정리 </a> <br>
 <a href ="https://striver.tistory.com/entry/Fine-Tuning-Restoring-obfuscation-LLM-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0"> [Fine-Tuning] Restoring obfuscation LLM 프로젝트 회고 </a> <br>
-<a href ="https://striver.tistory.com/entry/Agent-Fuction-calling%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-Agent"> [Agent] ESG 데이터 조회 Agent 구현 </a> <br>
 
 ## 📫 Connect With Me
 
