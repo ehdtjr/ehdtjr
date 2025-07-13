@@ -18,6 +18,7 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <br>
 
 ### 📕 Latest Blog Posts   
+<a href ="https://striver.tistory.com/entry/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D"> [정규표현식] 데이터 전처리를 위한 정규표현식 </a> <br>
 <a href ="https://striver.tistory.com/entry/DataFrame"> [DataFrame] 전처리를 위한 DataFrame 함수들 </a> <br>
 <a href ="https://striver.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C-%EC%82%AC%EB%82%B4-%EC%84%9C%EB%B2%84-%EC%A0%91%EA%B7%BC"> [네트워크] 외부에서 사내 서버 접근 </a> <br>
 <a href ="https://striver.tistory.com/entry/claude-code-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0"> claude code 체험 </a> <br>
@@ -27,7 +28,6 @@ RAG 시스템 구축, Agent Workflow에 집중하며, Python 기반의 백엔드
 <a href ="https://striver.tistory.com/entry/Prompt-Engineering-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9D%98-%EC%8B%AC%ED%99%94-%EA%B8%B0%EB%B2%95%EB%93%A41"> [Prompt Engineering] 프롬프트 엔지니어링의 심화 기법들(1) </a> <br>
 <a href ="https://striver.tistory.com/entry/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9D%98-%EA%B8%B0%EC%B4%88-%EA%B8%B0%EB%B2%95%EB%93%A4"> [Prompt Engineering] 프롬프트 엔지니어링의 기초 기법들 </a> <br>
 <a href ="https://striver.tistory.com/entry/DeepLearning-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC"> [DeepLearning] 딥러닝 프레임워크 비교 분석 </a> <br>
-<a href ="https://striver.tistory.com/entry/Knowledge-%ED%95%99%EC%8A%B5-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%84%88-%EC%A2%85%EB%A5%98-GPU-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%B4%9D%EC%A0%95%EB%A6%AC"> [Knowledge] 학습 파라미터, 트레이너 종류, GPU 인프라 총정리 </a> <br>
 
 ## 📫 Connect With Me
 
